@@ -12,3 +12,4 @@ dist/*
 checkpoint
 htmlcov
 mnist
+*.zip
